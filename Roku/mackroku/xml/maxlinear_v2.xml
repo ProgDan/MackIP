@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>9</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>9</endIndex>
+	<item>
+		<title>TV Cultura</title>
+		<contentId>10001</contentId>
+		<media>
+			<streamUrl>http://192.168.1.176:5004/auto/v5014</streamUrl>
+		</media>
+	</item>	
+	<item>
+		<title>SBT</title>
+		<contentId>10001</contentId>
+		<media>
+			<streamUrl>http://192.168.1.176:5004/auto/v5020</streamUrl>
+		</media>
+	</item>	
+	<item>
+		<title>TV Globo</title>
+		<contentId>10001</contentId>
+		<media>
+			<streamUrl>http://192.168.1.176:5004/auto/v5006</streamUrl>
+		</media>
+	</item>	
+	<item>
+		<title>TV Record</title>
+		<contentId>10001</contentId>
+		<media>
+			<streamUrl>http://192.168.1.176:5004/auto/v5008</streamUrl>
+		</media>
+	</item>	
+	<item>
+		<title>Rede TV</title>
+		<contentId>10001</contentId>
+		<media>
+			<streamUrl>http://192.168.1.176:5004/auto/v5023</streamUrl>
+		</media>
+	</item>	
+	<item>
+		<title>TV Gazeta</title>
+		<contentId>10001</contentId>
+		<media>
+			<streamUrl>http://192.168.1.176:5004/auto/v5004</streamUrl>
+		</media>
+	</item>	
+	<item>
+		<title>TV Bandeirantes 1Seg</title>
+		<contentId>10001</contentId>
+		<media>
+			<streamUrl>http://192.168.1.176:5010/auto/v5013</streamUrl>
+		</media>
+	</item>	
+ 	<item>
+		<title>TV Bandeirantes HD</title>
+		<contentId>10001</contentId>
+		<media>
+			<streamUrl>http://192.168.1.176:5004/auto/v5012</streamUrl>
+		</media>
+	</item>
+	<item>
+		<title>TV Mackenzie</title>
+		<contentId>10001</contentId>
+		<media>
+			<streamUrl>http://192.168.1.176:5004/auto/v5001</streamUrl>
+		</media>
+	</item>	
+</feed>

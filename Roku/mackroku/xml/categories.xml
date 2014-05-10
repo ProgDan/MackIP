@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+
+	  <!-- banner_ad: optional element which displays an at the top level category screen -->
+	  <banner_ad sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png"/>
+
+<!--	  
+	<category title="Mackenzie" description="Canais Experimentais" sd_img="file://pkg:/images/mack_logo.png" hd_img="file://pkg:/images/mack_logo.png">
+		<categoryLeaf title="ISDB-T em IP" description="" feed="file://pkg:/xml/isdbt.xml" />
+		<categoryLeaf title="Internet" description="" feed="file://pkg:/xml/internet.xml"/>
+	</category>
+-->
+
+	<category title="Settings" description="General Settings" sd_img="http://mini.progdan.com/roku/artwork/settings_icon.png" hd_img="http://mini.progdan.com/roku/artwork/settings_icon.png">
+		<categoryLeaf title="Settings" description="" feed="file://pkg:/xml/settings.xml" />
+	</category>
+
+
+	<category title="Mackenzie" description="ISDB-T em IP" sd_img="http://mini.progdan.com/roku/images/mack_logo.png" hd_img="http://mini.progdan.com/roku/images/mack_logo.png">
+<!--		<categoryLeaf title="ISDB-T em IP" description="" feed="http://mini.progdan.com/roku/xml/maxlinear.xml" />  -->
+		<categoryLeaf title="ISDB-T em IP" description="" feed="http://10.0.1.2/lineup_roku.xml" />
+	</category>
+
+<!--
+	<category title="Mackenzie (Max Linear)" description="Max Linear" sd_img="file://pkg:/images/mack_logo.png" hd_img="file://pkg:/images/mack_logo.png">
+		<categoryLeaf title="ISDB-T em IP" description="" feed="file://pkg:/xml/maxlinear.xml" />
+	</category>
+-->
+
+</categories>

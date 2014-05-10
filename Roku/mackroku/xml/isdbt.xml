@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>8</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>8</endIndex>
+	<item sdImg="file://pkg:/artwork/cultura_ok.png" hdImg="file://pkg:/artwork/cultura_ok.png">
+		<title>TV Cultura</title>
+		<contentId>10001</contentId>
+		<contentType>Streaming</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>ts</streamFormat>
+		<media>
+			<streamQuality>HD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://192.168.2.102/?fe=1&amp;msys=dvbs&amp;src=1&amp;sr=22000&amp;freq=10743.75&amp;pol=h&amp;fec=56&amp;pids=0,600,605,610,620</streamUrl>
+		</media>
+		<synopsis>Cultura</synopsis>
+		<genres>TV Aberta</genres>
+		<runtime>1260</runtime>
+	</item>	
+	<item sdImg="file://pkg:/artwork/sbt_ok.png" hdImg="file://pkg:/artwork/sbt_ok.png">
+		<title>SBT</title>
+		<contentId>10001</contentId>
+		<contentType>Streaming</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>ts</streamFormat>
+		<media>
+			<streamQuality>HD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://192.168.2.102/?fe=1&amp;msys=dvbs&amp;src=1&amp;sr=22000&amp;freq=10743.75&amp;pol=h&amp;fec=56&amp;pids=0,515,516,513,514</streamUrl>
+		</media>
+		<synopsis>SBT</synopsis>
+		<genres>TV Aberta</genres>
+		<runtime>1260</runtime>
+	</item>	
+	<item sdImg="file://pkg:/artwork/globo_ok.png" hdImg="file://pkg:/artwork/globo_ok.png">
+		<title>TV Globo</title>
+		<contentId>10001</contentId>
+		<contentType>Streaming</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>ts</streamFormat>
+		<media>
+			<streamQuality>HD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://192.168.2.102/?fe=1&amp;msys=dvbs&amp;src=1&amp;sr=22000&amp;freq=10743.75&amp;pol=h&amp;fec=56&amp;pids=0,257,256,273,274</streamUrl>
+		</media>
+		<synopsis>Globo</synopsis>
+		<genres>TV Aberta</genres>
+		<runtime>1260</runtime>
+	</item>	
+	<item sdImg="file://pkg:/artwork/record_ok.png" hdImg="file://pkg:/artwork/record_ok.png">
+		<title>TV Record</title>
+		<contentId>10001</contentId>
+		<contentType>Streaming</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>ts</streamFormat>
+		<media>
+			<streamQuality>HD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://192.168.2.102/?fe=1&amp;msys=dvbs&amp;src=1&amp;sr=22000&amp;freq=10743.75&amp;pol=h&amp;fec=56&amp;pids=0,257,768,273,274</streamUrl>
+		</media>
+		<synopsis>Record</synopsis>
+		<genres>TV Aberta</genres>
+		<runtime>1260</runtime>
+	</item>	
+	<item sdImg="file://pkg:/artwork/redetv_ok.png" hdImg="file://pkg:/artwork/redetv_ok.png">
+		<title>Rede TV</title>
+		<contentId>10001</contentId>
+		<contentType>Streaming</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>ts</streamFormat>
+		<media>
+			<streamQuality>HD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://192.168.2.102/?fe=1&amp;msys=dvbs&amp;src=1&amp;sr=22000&amp;freq=10743.75&amp;pol=h&amp;fec=56&amp;pids=0,257,256,273,274</streamUrl>
+		</media>
+		<synopsis>Rede TV</synopsis>
+		<genres>TV Aberta</genres>
+		<runtime>1260</runtime>
+	</item>	
+	<item sdImg="file://pkg:/artwork/gazeta_ok.png" hdImg="file://pkg:/artwork/gazeta_ok.png">
+		<title>TV Gazeta</title>
+		<contentId>10001</contentId>
+		<contentType>Streaming</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>ts</streamFormat>
+		<media>
+			<streamQuality>HD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://192.168.2.102/?fe=1&amp;msys=dvbs&amp;src=1&amp;sr=22000&amp;freq=10743.75&amp;pol=h&amp;fec=56&amp;pids=0,80,1026,770,514</streamUrl>
+		</media>
+		<synopsis>Gazeta</synopsis>
+		<genres>TV Aberta</genres>
+		<runtime>1260</runtime>
+	</item>	
+	<item sdImg="file://pkg:/artwork/band_ok.png" hdImg="file://pkg:/artwork/band_ok.png">
+		<title>TV Bandeirantes</title>
+		<contentId>10001</contentId>
+		<contentType>Streaming</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>ts</streamFormat>
+		<media>
+			<streamQuality>HD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://192.168.2.102/?fe=1&amp;msys=dvbs&amp;src=1&amp;sr=22000&amp;freq=10743.75&amp;pol=h&amp;fec=56&amp;pids=0,32,511,259,256</streamUrl>
+		</media>
+		<synopsis>Bandeirantes</synopsis>
+		<genres>TV Aberta</genres>
+		<runtime>1260</runtime>
+	</item>	
+	<item sdImg="file://pkg:/artwork/mackenzie_ok.png" hdImg="file://pkg:/artwork/mackenzie_ok.png">
+		<title>TV Mackenzie</title>
+		<contentId>10001</contentId>
+		<contentType>Streaming</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>ts</streamFormat>
+		<media>
+			<streamQuality>HD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://192.168.2.102/?fe=1&amp;msys=dvbs&amp;src=1&amp;sr=22000&amp;freq=10743.75&amp;pol=h&amp;fec=56&amp;pids=0,32,256,257,258</streamUrl>
+		</media>
+		<synopsis>TV Mackenzie</synopsis>
+		<genres>TV Aberta</genres>
+		<runtime>1260</runtime>
+	</item>	
+</feed>

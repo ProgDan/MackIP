@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>2</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>2</endIndex>
+	<item sdImg="file://pkg:/artwork/mackenzie_ok.png" hdImg="file://pkg:/artwork/mackenzie_ok.png">
+		<title>TV Mackenzie</title>
+		<contentId>10001</contentId>
+		<contentType>Streaming</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://ec2-50-19-196-117.compute-1.amazonaws.com:1935/live/smil:tvmackenzie.smil/playlist.m3u8</streamUrl>
+		</media>
+		<synopsis>As produções da TV Mackenzie são destinadas ao público em geral. Os programas procuram aproximar o mundo do conhecimento acadêmico e científico com a comunidade em uma via de mão-dupla. Temas de atualidade são analisados pelos professores e especialistas do Mackenzie ao mesmo tempo em que as pesquisas acadêmicas são divulgadas para o telespectador comum.</synopsis>
+		<genres>Internet Streaming</genres>
+		<runtime>1260</runtime>
+	</item>	
+	<item sdImg="file://pkg:/artwork/globo_ok.png" hdImg="file://pkg:/artwork/globo_ok.png">
+		<title>Globo News</title>
+		<contentId>10001</contentId>
+		<contentType>Streaming</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+<!--			<streamUrl>http://live.hls.globo.com/gnews/gnews_1000/playlist.m3u8</streamUrl>
+			<streamUrl>http://live.hls.globo.com/gnews/gnews_600/playlist.m3u8</streamUrl>
+-->
+			<streamUrl>http://live.hls.globo.com/gnews/gnews_300/playlist.m3u8</streamUrl>
+		</media>
+		<synopsis>TV Globo News.</synopsis>
+		<genres>Internet Streaming</genres>
+		<runtime>1260</runtime>
+	</item>	
+</feed>
